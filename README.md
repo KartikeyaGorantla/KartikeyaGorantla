@@ -12,7 +12,7 @@ Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%2
 
 
 
-- 🌱 I’m currently learning **HTML,CSS,JS**
+- 🌱 I’m currently learning **HTML,CSS**
 
 - ⚡ Fun fact **Always be a MadMan**
 
