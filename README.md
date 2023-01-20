@@ -13,7 +13,7 @@ Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%2
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://discord.gg/G K#6765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="G K#6765" height="30" width="40" /></a>
+   <a href="https://discord.gg/692591071414452285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="692591071414452285" height="30" width="40" /></a>
     <a href="https://instagram.com/__gk_2003" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="__gk_2003" height="30" width="40" /></a>
