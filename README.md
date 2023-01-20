@@ -1,6 +1,7 @@
 [![SVG
 Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Lair%20👨‍💻&width=1200&height=250)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi 👋, I'm G Kartikeya. I go by GK though.</h1>
+<h1 align="center">Hi 👋, I'm G Kartikeya.</h1>
+<h2 align="center">I go by GK though.</h2>
 <h3 align="center">Stupid B.Tech student who is into doing all crazy things with windows.</h3>
 <br>
 <h3 align="center">I am into windows alot. I will be checking out some cool things on windows and trying them out.
