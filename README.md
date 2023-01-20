@@ -6,7 +6,7 @@ Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%2
         /* text-align:center; */
         border-radius: 25px;
         margin:auto;
-        background: #30363d;
+        background: #161b22;
         padding: 20px;
         width: 75%;
         
