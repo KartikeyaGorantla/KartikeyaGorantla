@@ -3,7 +3,7 @@ Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%2
 <h1 align="center">Hi 👋, I'm G Kartikeya.</h1>
 <h2 align="center">I go by GK though.</h2>
 <h3 align="center">Stupid B.Tech student who is into doing all crazy things with windows.</h3>
-<h3 align="center">I am into windows alot. I will be checking out some cool things on windows and trying them out.
+<h3 align="center">I am into playing around with windows alot. I do keep looking for things on windows that improve user experience.
     <br>
     <br>
     I want to be a <strong>GODMODE</strong> windows user.</h3>
