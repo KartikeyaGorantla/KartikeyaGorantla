@@ -1,6 +1,6 @@
 [![SVG
 Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Lair%20👨‍💻&width=1200&height=200)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi 👋, I'm G Kartikeya.</h1>
+<h1 align="center">Hi 👋, I'm Kartikeya Gorantla.</h1>
     
 <h3 align="center">I'm a goal-oriented student. I am passionate about knowledge and learning.</h3>
     <br>  
