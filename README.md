@@ -6,7 +6,7 @@ Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%2
     <br>  
   
 - 🌱 I’m currently learning **ReactJS**
-- ⚡ Fun fact **The first computer bug was a moth that was found stuck in a relay switch of a Harvard Mark II computer in 1947**
+- ⚡ Fun fact: **The first computer bug was a moth that was found stuck in a relay switch of a Harvard Mark II computer in 1947**
 
   
 <img align="right" alt="CodingGIF" width=500
